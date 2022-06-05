@@ -8,5 +8,10 @@ code description
 4.The code “model” and “CNN_VB” is the main part of the multipath model.
 5.The code “evalute_VB” is used for uncertainty analysis.
 
+Meanwhile, the output data of the training data-set has exceeded 1GB, which has exceeded the capacity limit. If necessary, it can be sent by e-mail.(qiuchengcheng1010@163.com)
+
+
 When the model is trained, the optimal weights and biases will be saved. In practical engineering, it only needs to provide discrete pressure point data, and it can obtain the corresponding velocity field data.
-The output data of the training data-set has exceeded 1GB, which has exceeded the capacity limit. If necessary, it can be sent by e-mail.(qiuchengcheng1010@163.com)
+
+
+
